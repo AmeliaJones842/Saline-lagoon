@@ -1,6 +1,7 @@
 SALINE LAGOON ANALYSIS
 
-BACKGROUND INFO
+BACKGROUND INFO  
+
 Saline lagoons are intertidal environments of reduced water exchange. This study focused on an isolated saline lagoon in Llanelli, South Wales and is detached from the sea for 
 the majority of the month except during high spring tides where the sea level rises above the bank height and floods the lagoon. 
 Seasonal variation in community structure in intertidal habitats is well documented. Increases in water temperature, nutrient and food availability during the autumn tends to 
