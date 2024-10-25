@@ -8,5 +8,9 @@ increase biodiveristy in similar environments. However, greater influx of salt w
 these changes between flooding phases have not been investigated. 
 Some of the potential triggers for these temporal changes in the community are temperature, salinity, pH, turbidity, oxygen availablity and nutrient concentration.
 
+AIMS
 The aim of this study was to determine the causes of temporal changes in community structure in saline lagoons. 
-Both monthly changes in community structure and changes over different flooding phases were investigated. 
+1. Both monthly changes in community structure and changes over different flooding phases were investigated using NMDS and pairwise PERMANOVA. 
+2. Determine environmental changes that trigger community change using RDA.
+3. Determine how fish and invertebrate communites are affected differently by environmental variables by using GLMs on Abundance and Shannon diversity. 
+
